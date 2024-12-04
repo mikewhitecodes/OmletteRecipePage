@@ -1,0 +1,44 @@
+* {
+  min-width: 320px;
+  max-width: 1440px;
+}
+
+h1 h2 {
+  font-family: 'Young Serif', serif;
+  font-weight: 400;
+}
+
+h3 {
+  color: rgb(101, 1, 1);
+  font-family: Outfit, serif;
+}
+
+p {
+  font-family: Outfit, serif;
+  font-size: 16px;
+  font-weight: 400;
+  width: 375px;
+}
+
+ul, ol {
+  font-family: Outfit, serif;
+}
+
+img {
+  width: 600px;
+  height: 300px;
+}
+
+.container {
+  width: 375px;
+}
+
+.preptime {
+  width: ;
+  height: 200px;
+  background-color: rgba(200, 0, 55, 0.06);
+}
+
+span {
+  font-weight: bold;
+}
